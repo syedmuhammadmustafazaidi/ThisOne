@@ -1,0 +1,10 @@
+npm init 
+
+
+npm install -D tailwindcss postcss autoprefixer
+
+
+npx tailwindcss init
+
+IN VS CODE PACKAGE.JSON
+start:"vite"
